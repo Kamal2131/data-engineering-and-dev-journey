@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.dmypy.json
+.coverage
+htmlcov/
+
+# --- Envs ---
+.venv/
+venv/
+ENV/
+.env
+.env.*  # if you keep variants like .env.local
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS/IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Misc ---
+*.log
