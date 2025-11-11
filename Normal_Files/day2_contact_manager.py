@@ -3,7 +3,7 @@ import re
 from collections import OrderedDict
 from typing import Dict, List, Generator, Optional, Iterable
 
-DATA_FILE = "contacts.json"
+DATA_FILE = "Extra_docs/contacts.json"
 
 def normalize_phone(phone: str) -> Optional[str]:
     """Return 10-digit normalized phone (digits only), or None if invalid."""
