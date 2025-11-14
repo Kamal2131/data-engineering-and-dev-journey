@@ -1,0 +1,16 @@
+{
+    "savings": {
+        "class": "SavingsAccount",
+        "name": "savings",
+        "balance": 13000.0,
+        "transactions": [
+            {
+                "type": "DEPOSIT",
+                "amount": 12000.0,
+                "balance": 13000.0,
+                "timestamp": "2025-11-14T10:01:29.461757"
+            }
+        ],
+        "interest_rate": 12.0
+    }
+}
