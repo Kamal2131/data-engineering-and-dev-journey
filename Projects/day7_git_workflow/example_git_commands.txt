@@ -1,0 +1,17 @@
+# Git Workflow Notes
+
+## Commands practiced today:
+- git status
+- git add .
+- git commit -m ""
+- git push
+- git fetch
+- git merge main
+- git rebase main
+- git branch dev
+- git checkout dev
+
+## Short Explanation:
+- fetch → Get updates without merging
+- merge → Combine history with merge commit
+- rebase → Clean linear history (rewrite)
